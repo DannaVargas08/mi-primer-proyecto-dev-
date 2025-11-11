@@ -1,0 +1,6 @@
+{
+  "name": "calculadora-basica",
+  "version": "1.0.0",
+  "description": "Proyecto de práctica",
+  "main": "calculadora.js"
+}
