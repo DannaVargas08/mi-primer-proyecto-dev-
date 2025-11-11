@@ -1,2 +1,3 @@
-# mi-primer-proyecto-dev-
-Repositorio inicial para practicar GitHub
+# calculadora basica
+proyecto funciones matematicas simples.
+docs actualiozar intrucciones
