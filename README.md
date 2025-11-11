@@ -1,3 +1,3 @@
 # calculadora basica
-proyecto funciones matematicas simples.
-docs actualiozar intrucciones
+proyecto con funciones matematicas simples.
+docs: actualizar intrucciones
